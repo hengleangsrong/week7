@@ -1,1 +1,2 @@
-wellcome to github
+Kick start repository for
+assignment
