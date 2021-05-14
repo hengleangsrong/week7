@@ -1,2 +1,1 @@
-Kick start repository for
-assignment
+Kick start repository for assignment
